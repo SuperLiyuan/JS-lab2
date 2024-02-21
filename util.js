@@ -1,7 +1,7 @@
 
 // First Function: Welcome Message
 function welcome(firstName, lastName) {
-    console.log(`Welcome ${firstName} ${lastName} to G@I College`);
+    return `Welcome ${firstName} ${lastName} to G@I College`;
   }
   
   // Second Function: Convert Celsius to Fahrenheit
